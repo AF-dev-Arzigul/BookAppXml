@@ -25,7 +25,7 @@ import uz.gita.book_app_io.presentation.viewmodels.BookDetailsViewModel
 import uz.gita.book_app_io.presentation.viewmodels.impl.BookDetailsViewModelImpl
 import uz.gita.book_app_io.utils.hasPermissionApp
 
-// Created by Jamshid Isoqov an 10/26/2022
+
 @OptIn(FlowPreview::class)
 @AndroidEntryPoint
 class BookDetailsScreen : Fragment(R.layout.screen_book_details) {
